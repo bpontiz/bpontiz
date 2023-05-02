@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno</h1>
 <h3 align="center">Full Stack Developer 💻 | Biomedical Engineer</h3>
 
-<img src="![gitHubReadme](https://user-images.githubusercontent.com/96260786/235790878-7c181deb-d96f-437c-b8d0-5b5f94e315c2.png)" />
+<img src="https://user-images.githubusercontent.com/96260786/235790878-7c181deb-d96f-437c-b8d0-5b5f94e315c2.png" />
 
 
 - 🌱 I’m currently learning **Angular**

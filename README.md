@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno</h1>
 <h3 align="center">Full Stack Developer 💻 | Biomedical Engineer</h3>
 
-<iframes>https://www.canva.com/design/DAFhzIuwS6A/Yx1kmcxV7aSFO9OsP2t2ig/watch?utm_content=DAFhzIuwS6A&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel</iframes>
+https://www.canva.com/design/DAFhzIuwS6A/Yx1kmcxV7aSFO9OsP2t2ig/watch?utm_content=DAFhzIuwS6A&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
 
 

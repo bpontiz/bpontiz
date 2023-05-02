@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Bruno</h1>
+<h3 align="left">Full Stack Developer 💻 | Biomedical Engineer</h3>
 
-<div background-color="grey"><h3 align="left">Full Stack Developer 💻 | Biomedical Engineer</h3></div>
+
 
 
 - 🌱 I’m currently learning **Angular**

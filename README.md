@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno</h1>
 <h3 align="center">Full Stack Developer 💻 | Biomedical Engineer</h3>
 
-<div align="center">![gitHubReadme2](https://user-images.githubusercontent.com/96260786/235792969-2f5564a1-c7de-4fce-b97d-a6af2e1d51e8.png)</div>
+<img src="(https://user-images.githubusercontent.com/96260786/235792969-2f5564a1-c7de-4fce-b97d-a6af2e1d51e8.png)" align="center"/>
 
 
 

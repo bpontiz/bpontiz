@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Bruno</h1>
 <h3 align="center">Full Stack Developer 💻 | Biomedical Engineer</h3>
 
+![gitHubReadme](https://user-images.githubusercontent.com/96260786/235792825-86d4ba72-b24f-4008-92bd-f2e1c3e12600.png)
+
+
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **bpontiz@gmail.com**

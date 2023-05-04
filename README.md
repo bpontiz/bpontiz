@@ -1,5 +1,4 @@
-<h1 align="left">Hi, I'm Bruno</h1>
-<h3 align="left">💻⚙</h3>
+<h1 align="left">Hi, I'm Bruno 💻⚙</h1>
 
 <img src="https://user-images.githubusercontent.com/96260786/235792969-2f5564a1-c7de-4fce-b97d-a6af2e1d51e8.png" width="80%" />
 

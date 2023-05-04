@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Bruno 💻⚙</h1>
 
-<img src="https://user-images.githubusercontent.com/96260786/235792969-2f5564a1-c7de-4fce-b97d-a6af2e1d51e8.png" width="80%" />
+<img src="https://user-images.githubusercontent.com/96260786/236090673-ed179274-1fc9-4db2-9ef9-25858e2675a7.png" width="80%" />
 
 <p align="justify">I am a fullstack developer with oratory skills and +1 year of experience in IT/teaching of programming. I help people to understand the fundamentals of web programming by sharing my knowledge of software development. Besides I have +1 year of experience in developing web applications on my own. </p>
 
